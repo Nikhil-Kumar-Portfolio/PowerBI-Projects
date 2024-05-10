@@ -1,2 +1,4 @@
 # PowerBI-Projects
-PowerBI Dashboards  |  Data Visualization 
+PowerBI Dashboards of Madhav E-Commerce Store Dashboard
+Data Visualization 
+Analysis of insights
